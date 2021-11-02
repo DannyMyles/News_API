@@ -63,7 +63,7 @@ As a user I would like to:
          * Insert the following info into it:
 
                  export NEWS_API_KEY='<Your-Api-Key>'
-                 python3.8 manage.py server
+                 python3.9 manage.py server
 
          * Insert the API Key you received from News Api where     <Your-Api-Key> is.
 
